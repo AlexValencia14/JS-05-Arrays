@@ -1,0 +1,18 @@
+NOTAS DE CLASE ARRAYS.JS
+
+Metodos
+	array.length --> numero de elementos
+	array.push(...) --> agregar elementos al final
+	array.pop() --> eliminar el elemento final
+	array.unshift(...) --> agregar elementos al inicio
+	array.shift() --> eliminar el primer elemento
+	array.indexOf(...) --> posicion de un elemento
+
+	array.splice( posicion, cantidadAEliminar, elementoAInsertar) --> agrega, elimina, reemplazar
+
+	array.map(function(...){...}) --> para crear un nuevo array con base a uno existente
+	
+
+NOTAS DE CLASE REGISTROCITASYPACIENTES.JS
+
+	array.forEach(function(Elemento, indice){...}) --> sirve principalmente para imprimir la informacion del arreglo
